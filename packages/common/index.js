@@ -14,5 +14,6 @@ const function3 = () => {
 module.exports =  {
   "test1": function1,
   "test2": function2,
-  "test3": function3
+  "test3": function3,
+  "test4": function3,
 }
